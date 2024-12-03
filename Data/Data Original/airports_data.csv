@@ -1,6 +1,6 @@
 airport_code,airport_name,city,coordinates,timezone,Latitud,Longitud
 YKS," ""Yakutsk Airport"""," ""Yakutsk""","(129.77099609375,62.0932998657226562)",Asia/Yakutsk,129.7709961,62.09329987
-MJZ," ""Mirny Airport"""," ""Mirnyj""","(114.03900146484375,62.534698486328125)",Asia/Yakutsk,114.0390015,62.53469849
+MJZ," ""Mirnyt"""," ""Astrakhan""","(48.0063018799000005,46.2832984924000002)",Europe Airport"""," ""Mirnyj""","(114.03900146484375,62.534698486328125)",Asia/Yakutsk,114.0390015,62.53469849
 KHV," ""Khabarovsk-Novy Airport"""," ""Khabarovsk""","(135.18800354004,48.5279998779300001)",Asia/Vladivostok,135.1880035,48.52799988
 PKC," ""Yelizovo Airport"""," ""Petropavlovsk""","(158.453994750976562,53.1679000854492188)",Asia/Kamchatka,158.4539948,53.16790009
 UUS," ""Yuzhno-Sakhalinsk Airport"""," ""Yuzhno-Sakhalinsk""","(142.718002319335938,46.8886985778808594)",Asia/Sakhalin,142.7180023,46.88869858
@@ -15,7 +15,7 @@ SGC," ""Surgut Airport"""," ""Surgut""","(73.4018020629882812,61.343700408935546
 BZK," ""Bryansk Airport"""," ""Bryansk""","(34.1763992309999978,53.2141990661999955)",Europe/Moscow,34.17639923,53.21419907
 MRV," ""Mineralnyye Vody Airport"""," ""Mineralnye Vody""","(43.0819015502929688,44.2251014709472656)",Europe/Moscow,43.08190155,44.22510147
 STW," ""Stavropol Shpakovskoye Airport"""," ""Stavropol""","(42.1128005981445312,45.1091995239257812)",Europe/Moscow,42.1128006,45.10919952
-ASF," ""Astrakhan Airport"""," ""Astrakhan""","(48.0063018799000005,46.2832984924000002)",Europe/Samara,48.00630188,46.28329849
+ASF," ""Astrakhan Airpor/Samara,48.00630188,46.28329849
 NJC," ""Nizhnevartovsk Airport"""," ""Nizhnevartovsk""","(76.4835968017578125,60.9492988586425781)",Asia/Yekaterinburg,76.4835968,60.94929886
 SVX," ""Koltsovo Airport"""," ""Yekaterinburg""","(60.8027000427250002,56.7430992126460012)",Asia/Yekaterinburg,60.80270004,56.74309921
 SVO," ""Sheremetyevo International Airport"""," ""Moscow""","(37.4146000000000001,55.9725990000000024)",Europe/Moscow,37.4146,55.972599
