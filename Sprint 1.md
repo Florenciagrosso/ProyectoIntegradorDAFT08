@@ -15,5 +15,19 @@ En esta etapa inicial del proyecto, fue crucial realizar una identificación cla
 
 Además, se definió una estructura de carpetas en el repositorio que facilitara la colaboración entre los miembros del equipo, organizando los archivos de forma lógica y asegurando que cada sección del proyecto tuviera su propio espacio dentro del repositorio. Este enfoque garantiza que los desarrolladores puedan trabajar en diferentes aspectos del proyecto sin interferencias, manteniendo una separación clara entre scripts, datos, documentación y otros recursos.
 
+## 3. Creación de la Base de Datos
 
+### 3.1 Creación de la Base de Datos
+
+**Descripción:**
+
+La base de datos es el pilar fundamental sobre el cual se desarrolló todo el sistema de análisis de datos para **Aerolinea XXX**. En este proyecto, se optó por usar **SQL Server** como gestor de bases de datos por su robustez y capacidad para manejar grandes volúmenes de datos transaccionales.
+
+El enfoque inicial fue crear una estructura de base de datos que permitiera almacenar de forma eficiente los datos de inventarios, compras y ventas, manteniendo una trazabilidad clara de cada operación realizada en el sistema. Se buscó una arquitectura que permitiera realizar consultas rápidas y eficaces, que brindaran insights útiles para la toma de decisiones.
+
+### 3.2 Identificación de Entidades y Tablas
+
+**Descripción:**
+
+La correcta identificación de las entidades y tablas fue crucial para el éxito del proyecto, ya que esto permitió la creación de un modelo de datos que reflejara con precisión las necesidades operativas y analíticas de **XXX Aerolinea**. Durante este proceso, se analizaron todos los aspectos del negocio, desde las compras hasta las ventas y la gestión de inventarios.
 
