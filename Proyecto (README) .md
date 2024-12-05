@@ -1,7 +1,7 @@
 # Proyecto Final Grupo 3 (Henry / Data Analytics) </p>
   
 ## "Optimización integral de gestión de archivos y manejo de tiempos de una aerolínea" </p>
-Creación de un entorno de carga y análisis de datos presentes en la empresa Wings of de east </p>
+Creación de un entorno de carga y análisis de datos presentes en la empresa Wings of the east </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0c5a6151-e97c-4a78-8a08-608e4f1cf9d3" alt="Logo" width="350" height="350">
