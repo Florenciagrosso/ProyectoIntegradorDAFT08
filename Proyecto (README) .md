@@ -7,7 +7,7 @@ Creación de un entorno de carga y análisis de datos presentes en la empresa Wi
   <img src="https://github.com/user-attachments/assets/0c5a6151-e97c-4a78-8a08-608e4f1cf9d3" alt="Logo" width="350" height="350">
 </p>
 ## ✅ Integrantes del equipo:
-* Florencia Grosso - Data Analytics *
+* Florencia Grosso - Data Analytics * </p>
 * Ernesto Castro - Data Analytics *
 * Luis Ramón - Data Analytics *
 * Daniel Episcopo - Data Analytics *
