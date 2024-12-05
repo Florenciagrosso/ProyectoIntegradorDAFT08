@@ -7,17 +7,17 @@ Creación de un entorno de carga y análisis de datos presentes en la empresa Wi
   <img src="https://github.com/user-attachments/assets/0c5a6151-e97c-4a78-8a08-608e4f1cf9d3" alt="Logo" width="350" height="350">
 </p>
 ## ✅ Integrantes del equipo: </p>
-* Florencia Grosso - Data Analytics * </p>
-* Ernesto Castro - Data Analytics * </p>
-* Luis Ramón - Data Analytics * </p>
-* Daniel Episcopo - Data Analytics * </p>
-* Santiago León - Data Analytics * </p>
+* Florencia Grosso - Data Analytics  </p>
+* Ernesto Castro - Data Analytics  </p>
+* Luis Ramón - Data Analytics  </p>
+* Daniel Episcopo - Data Analytics  </p>
+* Santiago León - Data Analytics  </p>
 
 
 ## ✅ Video Introductorio : </p>
 
 Leer la documentación correspondiente a cada Sprint para explicación del proyecto. </p>
-##  ✅ * Resumen del Proyecto:* 🔨 </p>
+##  ✅  Resumen del Proyecto: 🔨 </p>
 Este proyecto consta de la realización de una consultoría para la aerolínea 'Wings of the east', identificando las posibles necesidades dentro de esta empresa relacionada con el horario de sus vuelos y el costo de sus pasajes. </p>
 ![mejores-aerolineas-de-mexico-p](https://github.com/user-attachments/assets/e0b738ec-c5cc-4d88-99bc-8306269a6507)
 
@@ -40,6 +40,6 @@ A través de un enfoque centrado en el cliente y un constante proceso de mejora 
   
 
 * **Resultados esperados:** </p>
-* **Identificación de medidas de tendencia relacionadas al costo de los pasajes y el tiempo de retraso o duración de los vuelos** * </p>
-* **Detección de patrones de los vuelos o compras para la toma de decisiones estratégicas** * </p>
-* **Visualización adecuada de las estadísticas y data relevante para analizar** * </p>
+* **Identificación de medidas de tendencia relacionadas al costo de los pasajes y el tiempo de retraso o duración de los vuelos** </p>
+* **Detección de patrones de los vuelos o compras para la toma de decisiones estratégicas** </p>
+* **Visualización adecuada de las estadísticas y data relevante para analizar** </p>
