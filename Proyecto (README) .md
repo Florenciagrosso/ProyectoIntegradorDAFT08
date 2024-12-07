@@ -4,7 +4,7 @@
 Creación de un entorno de carga y análisis de datos presentes en la empresa Wings of the east </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0c5a6151-e97c-4a78-8a08-608e4f1cf9d3" alt="Logo" width="350" height="350">
+  <img src="C:\Users\flore\OneDrive\Documents\Proyecto Final Clonado\ProyectoIntegradorDAFT08\Assets\banner.png" alt="Logo" width="350" height="350">
 </p>
 ## ✅ Integrantes del equipo: </p>
 * Florencia Grosso - Data Analytics  </p>
@@ -19,7 +19,7 @@ Creación de un entorno de carga y análisis de datos presentes en la empresa Wi
 Leer la documentación correspondiente a cada Sprint para explicación del proyecto. </p>
 ##  ✅  Resumen del Proyecto: 🔨 </p>
 Este proyecto consta de la realización de una consultoría para la aerolínea 'Wings of the east', identificando las posibles necesidades dentro de esta empresa relacionada con el horario de sus vuelos y el costo de sus pasajes. </p>
-![mejores-aerolineas-de-mexico-p](https://github.com/user-attachments/assets/e0b738ec-c5cc-4d88-99bc-8306269a6507)
+![mejores-aerolineas-de-mexico-p](Assets/Designer (2).jpeg)
 
 * **Desafío:** </p>
 **Wings of the east** </p>
