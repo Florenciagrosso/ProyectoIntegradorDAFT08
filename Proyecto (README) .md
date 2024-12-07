@@ -4,7 +4,7 @@
 Creación de un entorno de carga y análisis de datos presentes en la empresa Wings of the east </p>
 
 <p align="center">
-  <img src="C:\Users\flore\OneDrive\Documents\Proyecto Final Clonado\ProyectoIntegradorDAFT08\Assets\banner.png" alt="Logo" width="350" height="350">
+  <img src="[C:\Users\flore\OneDrive\Documents\Proyecto Final Clonado\ProyectoIntegradorDAFT08\Assets\banner.png](https://github.com/Florenciagrosso/ProyectoIntegradorDAFT08/blob/main/Assets/banner.png)" alt="Logo" width="350" height="350">
 </p>
 ## ✅ Integrantes del equipo: </p>
 * Florencia Grosso - Data Analytics  </p>
