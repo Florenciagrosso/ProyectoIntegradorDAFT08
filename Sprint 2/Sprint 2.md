@@ -20,3 +20,20 @@ La importación de datos en Power BI fue un paso fundamental para comenzar a tra
 ### **2. Importación de Datos a Power BI**
 
 **Objetivo**: El objetivo de esta fase fue centralizar y cargar todos los datos relevantes en Power BI para realizar las transformaciones necesarias, análisis y posteriormente diseñar las visualizaciones interactivas.
+
+## **3. Limpieza y Transformación de los Datos en Power BI**
+
+El tercer paso en el desarrollo del **Sprint 2** fue la **limpieza** y **transformación** de los datos importados. Esta fase es crítica, ya que asegura que los datos estén libres de errores y en un formato que permita su análisis efectivo. A través de las herramientas de **Power Query** de Power BI, se realizaron diferentes transformaciones y operaciones de limpieza para preparar los datos para el análisis.
+
+### **Objetivo**:
+El objetivo de esta etapa fue realizar la limpieza y transformación de los datos, asegurando que todos los valores fueran correctos, sin duplicados, y en los formatos adecuados para su análisis. Además, se generaron columnas calculadas que agregaron valor a los reportes y medidas para el análisis posterior.
+
+## **4. Creación de Medidas, Columnas Calculadas y Relaciones en Power BI**
+
+En este punto del **Sprint 2**, nos centramos en la creación de **medidas DAX**, **columnas calculadas** y el establecimiento de **relaciones** entre las tablas de datos. Estos elementos son fundamentales para que **Power BI** pueda realizar cálculos y análisis de forma dinámica y precisa.
+
+### **Objetivo**:
+El objetivo principal de esta etapa fue generar medidas y columnas que permitieran realizar cálculos específicos que no estaban presentes en los datos crudos, así como definir las relaciones entre las tablas para habilitar un análisis cruzado. Con estas herramientas, se logró preparar los datos para su uso en las visualizaciones y gráficos del informe final.
+
+## **5. Diseño de Dashboards en Power BI**
+
