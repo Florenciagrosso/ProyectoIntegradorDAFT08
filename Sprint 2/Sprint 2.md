@@ -2,7 +2,7 @@
 
 ## Objetivo General del Sprint 2
 
-El objetivo principal de este sprint fue desarrollar un informe interactivo y funcional en Power BI que permitiera a los usuarios realizar un análisis detallado de las operaciones de ComerLogistics. El informe debía proporcionar visualizaciones claras y concisas de los datos clave, permitiendo tomar decisiones informadas basadas en métricas precisas.
+El objetivo principal de este sprint fue desarrollar un informe interactivo y funcional en Power BI que permitiera a los usuarios realizar un análisis detallado de las operaciones de Wings of the East. El informe debía proporcionar visualizaciones claras y concisas de los datos clave, permitiendo tomar decisiones informadas basadas en métricas precisas.
 
 Para lograr este objetivo, se realizaron una serie de pasos que abarcan desde la creación del archivo .pbix hasta la validación final del informe. Este sprint se enfocó en asegurar que todas las etapas, desde la importación de datos hasta la generación de reportes y gráficos, se llevaran a cabo con la máxima precisión y profesionalismo.
 
