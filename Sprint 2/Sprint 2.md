@@ -35,5 +35,10 @@ En este punto del **Sprint 2**, nos centramos en la creación de **medidas DAX**
 ### **Objetivo**:
 El objetivo principal de esta etapa fue generar medidas y columnas que permitieran realizar cálculos específicos que no estaban presentes en los datos crudos, así como definir las relaciones entre las tablas para habilitar un análisis cruzado. Con estas herramientas, se logró preparar los datos para su uso en las visualizaciones y gráficos del informe final.
 
-## **5. Diseño de Dashboards en Power BI**
+## **5. Diseño de Dashboards y reporte en Power BI**
+
+El diseño de reportes y gráficos es una fase crítica dentro del **Sprint 2**, ya que es el momento en el que los datos procesados se transforman en visualizaciones interactivas y accesibles que permiten la toma de decisiones basada en datos. En esta etapa, el equipo se concentró en crear un dashboard que no solo fuera visualmente atractivo, sino que también contara con la capacidad de proporcionar insights clave sobre los vuelos, retrasos e ingresos por vuelo en **Wings of the East**.
+
+### **Objetivo del paso**:
+El objetivo de este paso fue crear un conjunto de reportes y gráficos interactivos en **Power BI** que permitieran al equipo de **Wings of the East** analizar su rendimiento operativo a los largo del periodo seleccionado. Estos reportes ofrecen un análisis detallado sobre vuelos e ingresos, proporcionando al usuario final una herramienta que les permite identificar tendencias, patrones y áreas de mejora.
 
