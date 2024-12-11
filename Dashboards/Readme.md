@@ -1,2 +1,2 @@
-# Descripción de graficos
+# Dashboards
 
