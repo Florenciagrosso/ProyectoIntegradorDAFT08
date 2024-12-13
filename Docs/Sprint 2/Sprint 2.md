@@ -15,7 +15,7 @@ En el inicio del **Sprint 2**, el primer paso crítico fue la creación del arch
 El archivo **.pbix** no solo es un archivo de datos, sino que también sirve como el entorno de desarrollo dentro del cual se lleva a cabo todo el trabajo de análisis, transformación de datos y diseño visual. Es aquí donde se establecen las conexiones a las distintas fuentes de datos, se crean las medidas calculadas utilizando el lenguaje **DAX**, y se diseñan los gráficos e informes que permiten a los usuarios finales interactuar de manera efectiva con los datos.
 ## **Punto 2: Importación de Datos a Power BI**
 
-La importación de datos en Power BI fue un paso fundamental para comenzar a trabajar con la información disponible de **ComerLogistics** y dar inicio al análisis de los datos. Este proceso involucró la importación de archivos CSV, bases de datos SQL y otros orígenes de datos, de manera que se pudiera trabajar con ellos en el entorno de Power BI.
+La importación de datos en Power BI fue un paso fundamental para comenzar a trabajar con la información disponible de **Wignd of the east** y dar inicio al análisis de los datos. Este proceso involucró la importación de archivos CSV, bases de datos SQL y otros orígenes de datos, de manera que se pudiera trabajar con ellos en el entorno de Power BI.
 
 ### **2. Importación de Datos a Power BI**
 
